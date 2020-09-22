@@ -8,8 +8,8 @@
     "dev": "env-cmd -f ./config/dev.env nodemon src/index"
   },
   "devDependencies": {
-    "env-cmd": "^10.0.1",
-    "nodemon": "^1.19.2"
+    "env-cmd": "^10.1.0",
+    "nodemon": "^2.0.4"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
